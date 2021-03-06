@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="491" height="235" viewBox="0 0 491 235">
+  <g id="Container" transform="translate(0 -0.339)">
+    <g id="Rectangle_52" data-name="Rectangle 52" transform="translate(0 0.339)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="491" height="235" stroke="none"/>
+      <rect x="0.5" y="0.5" width="490" height="234" fill="none"/>
+    </g>
+    <g id="Container-2" data-name="Container" transform="translate(25 15.338)" fill="#77161d" stroke="#707070" stroke-width="1">
+      <rect width="172" height="194" rx="7" stroke="none"/>
+      <rect x="0.5" y="0.5" width="171" height="193" rx="6.5" fill="none"/>
+    </g>
+    <g id="Message" transform="translate(220.805 163.559)">
+      <line id="Line_17" data-name="Line 17" x2="249.673" transform="translate(0.57 26.3)" fill="none" stroke="#77161d" stroke-width="1"/>
+      <text id="Message-2" data-name="Message" transform="translate(0.195 4.78)" font-size="5" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Message</tspan></text>
+      <text id="Write_your_message_.." data-name="Write your message .." transform="translate(0.195 19.78)" font-size="5" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" opacity="0.35"><tspan x="0" y="0">Write your message ..</tspan></text>
+    </g>
+    <g id="Input" transform="translate(221.375 24.534)">
+      <g id="First_Name" data-name="First Name" transform="translate(0 0)">
+        <line id="Line_13" data-name="Line 13" x2="118.368" transform="translate(0 33.697)" fill="none" stroke="#77161d" stroke-width="1"/>
+        <text id="First_Name-2" data-name="First Name" transform="translate(-0.375 4.805)" font-size="5" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">First Name</tspan></text>
+      </g>
+      <g id="Last_Name" data-name="Last Name" transform="translate(141.33 0)">
+        <line id="Line_14" data-name="Line 14" x2="118.368" transform="translate(0 33.697)" fill="none" stroke="#77161d" stroke-width="1"/>
+        <text id="Last_Name-2" data-name="Last Name" transform="translate(0.295 4.805)" font-size="5" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Last Name</tspan></text>
+      </g>
+      <g id="Phone" transform="translate(141.33 59.133)">
+        <line id="Line_16" data-name="Line 16" x2="118.368" transform="translate(0 28.574)" fill="none" stroke="#77161d" stroke-width="1"/>
+        <text id="Phone-2" data-name="Phone" transform="translate(0.295 4.672)" font-size="5" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Phone</tspan></text>
+      </g>
+      <g id="Mail" transform="translate(0 59.133)">
+        <line id="Line_15" data-name="Line 15" x2="118.368" transform="translate(0 28.574)" fill="none" stroke="#77161d" stroke-width="1"/>
+        <text id="Mail-2" data-name="Mail" transform="translate(-0.375 4.672)" font-size="5" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Mail</tspan></text>
+      </g>
+    </g>
+    <g id="Issue" transform="translate(221.434 132.105)">
+      <text id="Please_choose_your_issue_below" data-name="Please choose your issue below" transform="translate(-0.434 5.233)" font-size="5" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Please choose your issue below</tspan></text>
+      <g id="Account" transform="translate(0 15.098)">
+        <text id="Phone-3" data-name="Phone" transform="translate(14.566 5.136)" font-size="5" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Phone</tspan></text>
+        <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(-0.434 0.136)" fill="#fff" stroke="#707070" stroke-width="1">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="4" fill="none"/>
+        </g>
+      </g>
+      <g id="Membership" transform="translate(50.955 15.098)">
+        <text id="Phone-4" data-name="Phone" transform="translate(14.611 5.136)" font-size="5" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Phone</tspan></text>
+        <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(-0.388 0.136)" fill="#fff" stroke="#707070" stroke-width="1">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="4" fill="none"/>
+        </g>
+      </g>
+      <g id="General" transform="translate(101.91 15.098)">
+        <text id="Phone-5" data-name="Phone" transform="translate(14.656 5.136)" font-size="5" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Phone</tspan></text>
+        <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(-0.344 0.136)" fill="#fff" stroke="#707070" stroke-width="1">
+          <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+          <circle cx="4.5" cy="4.5" r="4" fill="none"/>
+        </g>
+      </g>
+      <g id="Technical_" data-name="Technical " transform="translate(152.236 15.098)">
+        <text id="Phone-6" data-name="Phone" transform="translate(15.331 5.136)" font-size="5" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Phone</tspan></text>
+        <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(0.331 0.136)" fill="#fff" stroke="#707070" stroke-width="1">
+          <ellipse cx="4" cy="4.5" rx="4" ry="4.5" stroke="none"/>
+          <ellipse cx="4" cy="4.5" rx="3.5" ry="4" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Container-3" data-name="Container" transform="translate(0 0.339)" fill="none" stroke="#77161d" stroke-width="2">
+      <rect width="491" height="235" stroke="none"/>
+      <rect x="1" y="1" width="489" height="233" fill="none"/>
+    </g>
+    <g id="Title" transform="translate(39.003 35.857)">
+      <text id="Contact_Information_" data-name="Contact Information " transform="translate(-0.003 12.481)" fill="#fff" font-size="11" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Contact Information </tspan></text>
+      <text id="Fill_up_the_form_and_our_team_will_get_back_to_you_within_24_hours." data-name="Fill up the form and our team will get back to you 
+within 24 hours." transform="translate(1.997 30.481)" fill="#fff" font-size="5" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Fill up the form and our team will get back to you </tspan><tspan x="0" y="6">within 24 hours.</tspan></text>
+    </g>
+  </g>
+</svg>
